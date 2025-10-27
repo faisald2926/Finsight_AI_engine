@@ -2,7 +2,7 @@
 # ResponsibilityAgent
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo/responsibility-agent)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 The ResponsibilityAgent is an AI-powered financial analysis system that evaluates personal financial responsibility by analyzing transaction data. It combines traditional financial metrics with machine learning to generate a comprehensive responsibility score from 0 to 100.
